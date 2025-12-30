@@ -69,4 +69,13 @@ The goal is to provide **business insights** that help improve:
 **Deepali (Lucky)**  
 Aspiring Data Analyst  
 
+Thank you for visiting my project! I am constantly looking to improve my data analysis skills, so your feedback is incredibly valuable to me.
+
+**I would love to hear your thoughts on:**
+* **Technical Implementation:** Are there more efficient ways I could have handled the data cleaning or used specific libraries (e.g., Pandas, Seaborn)?
+* **Insights & Accuracy:** Do the conclusions drawn from the visualizations align with the data provided?
+* **Future Scope:** What other variables or external datasets could I incorporate to make this analysis more robust?
+
+ You can also reach out to me via [LinkedIn](https://www.linkedin.com/in/deepali-maity-0382701ba).
+
 
