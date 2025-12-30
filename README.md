@@ -63,6 +63,12 @@ The goal is to provide **business insights** that help improve:
 ![Customer Ordering Behaviour](images/customer_analysis.png)
 ![Product & Department Performance](images/product_analysis.png)
 ![Time & Basket Analysis](images/time_analysis.png)
+
+## Power BI Dashboard
+Due to GitHub file size limits, the PBIX file is shared via Google Drive.
+
+🔗 Download PBIX file: [Click here](https://drive.google.com/file/d/1c9rZsuGrrBjjHY--tzwLyi-lw7EcxClb/view?usp=sharing)
+
 ---
 
 ## 🔗 Author
