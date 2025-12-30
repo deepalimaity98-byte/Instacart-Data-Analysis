@@ -60,7 +60,9 @@ The goal is to provide **business insights** that help improve:
 
 ## 📎 Dashboard Preview
 ![Executive Overview](images/executive_overview.png)
-
+![Customer Ordering Behaviour](images/customer_analysis.png)
+![Product & Department Performance](images/product_analysis.png)
+![Time & Basket Analysis](images/time_analysis.png)
 ---
 
 ## 🔗 Author
